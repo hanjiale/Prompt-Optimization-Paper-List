@@ -7,7 +7,7 @@
 ### Survey
 -  Efficient Prompting Methods for Large Language Models: A Survey. 2024.03. [[Paper](https://arxiv.org/abs/2404.01077)] 
 
-### Task Prompt Optimization
+### Prompt Optimization
 -  GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models. 2022.03. ![1](https://img.shields.io/badge/EACL_2023-blue) [[Paper](https://arxiv.org/abs/2203.07281)] [[Project](https://github.com/archiki/GrIPS)]
 -  RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning. 2022.05. ![1](https://img.shields.io/badge/EMNLP_2022-blue) [[Paper](https://arxiv.org/abs/2205.12548)] [[Project](https://github.com/mingkaid/rl-prompt)]
 -  TEMPERA: Test-Time Prompting via Reinforcement Learning.  2022.11. [[Paper](https://arxiv.org/abs/2211.11890)] [[Project](https://github.com/tianjunz/TEMPERA)]
